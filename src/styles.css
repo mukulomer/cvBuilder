@@ -1,0 +1,44 @@
+* {
+  font-family: sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.add {
+  height: 100;
+  width: 100;
+  margin: 100;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.cv_list {
+  margin: 80;
+  color: darkblue;
+  font-family: sans-serif;
+}
+.title {
+  color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box1 {
+  height: 200;
+  width: 150;
+  background-color: mediumaquamarine;
+  box-shadow: 5px 10px lightskyblue;
+  /* background-image: url("https://png.pngtree.com/background/20210715/original/pngtree-double-row-tree-path-with-yellow-deciduous-autumn-leaves-picture-image_1293368.jpg");
+} */
+}
+.subtitle {
+  margin: 50;
+}
+.card {
+  display: flex;
+}
